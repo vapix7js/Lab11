@@ -1,0 +1,11 @@
+﻿kod_fakulteta;nazvanie;vypuskayushchaya;sait;telefon
+1;Информатики;TRUE;https://cs.example.ru;+74951110001
+1;Программирования;TRUE;https://prog.example.ru;+74951110002
+2;Математики;TRUE;https://math.example.ru;+74951110003
+2;Физики;FALSE;https://phys.example.ru;+74951110004
+3;Экономики;TRUE;https://eco.example.ru;+74951110005
+3;Менеджмента;FALSE;https://manage.example.ru;+74951110006
+4;Истории;TRUE;https://history.example.ru;+74951110007
+4;Филологии;TRUE;https://phil.example.ru;+74951110008
+5;Юриспруденции;TRUE;https://law.example.ru;+74951110009
+5;Социологии;FALSE;https://soc.example.ru;+74951110010
